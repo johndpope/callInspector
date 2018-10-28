@@ -1,0 +1,6 @@
+framework module Pods_Call_Inspector {
+  umbrella header "Pods-Call Inspector-umbrella.h"
+
+  export *
+  module * { export * }
+}

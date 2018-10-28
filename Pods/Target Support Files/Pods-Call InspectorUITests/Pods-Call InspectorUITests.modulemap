@@ -1,0 +1,6 @@
+framework module Pods_Call_InspectorUITests {
+  umbrella header "Pods-Call InspectorUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
